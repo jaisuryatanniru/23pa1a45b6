@@ -1,4 +1,3 @@
-// src/utils/priorityNotifications.js
 import { log } from './logger';
 
 export const getTopPriorityNotifications = (notifications, n = 10) => {
