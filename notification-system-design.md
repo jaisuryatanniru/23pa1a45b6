@@ -30,16 +30,16 @@ The main logic is in src/utils/priorityNotifications.js. I also added a class ca
 Below are some screenshots of the priority inbox working.
 
 All notifications tab:
-![All Notifications](capture_20260625151028575.bmp)
+![All Notifications](./screenshots/capture_20260625151028575.bmp)
 
 Priority Inbox showing top 10:
-![Priority Inbox Top 10](capture_20260625151020098.bmp)
+![Priority Inbox Top 10](./screenshots/capture_20260625151020098.bmp)
 
 Priority Inbox with top 5:
-![Priority Inbox Top 5](capture_20260625151042417.bmp)
+![Priority Inbox Top 5](./screenshots/capture_20260625151042417.bmp)
 
 Filtering by Result type:
-![Filter by Result](capture_20260625151050905.bmp)
+![Filter by Result](./screenshots/capture_20260625151050905.bmp)
 
 ## Stage 2 - React Frontend
 
